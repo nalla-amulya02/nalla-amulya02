@@ -1,5 +1,6 @@
 ## Hi, I'm Amulya 👋
-I'm interested in solving problems through code and enjoy building backend systems with Java and Spring Boot.
+🔭I'm interested in solving problems through code and enjoy building backend systems with Java and Spring Boot.
+🌱Open to talk about coding, problem solving.
 <!--
 **nalla-amulya02/nalla-amulya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
