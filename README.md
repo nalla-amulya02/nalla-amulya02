@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Amulya 👋
+I'm interested in solving problems through code and enjoy building backend systems with Java and Spring Boot.
 <!--
 **nalla-amulya02/nalla-amulya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
